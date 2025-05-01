@@ -1,0 +1,10 @@
+{
+  "name": "aether-cms",
+  "version": "0.1.0",
+  "description": "A modern, elegant content management system designed for developers and content creators who value simplicity and power.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
